@@ -1,5 +1,4 @@
-# BD1_081_574_586_589
-Repo created programmatically. Project Title: Yet another Kafka (YaK)
+
 
 
 Kafka clone using python libraries and socket programming.
